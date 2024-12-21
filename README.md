@@ -1,2 +1,2 @@
 # FirstHalf
-'FirstHalf' documents my 100 Days of Code journey in learning Python from Day 1-Day 49. On Day 50 I started working on a large project in Django, so my day-to-day journey included snippets of code across multiple files and languages, which mean little by themselves and are non-executable without all dependencies. This repo represents a series of mini-projects configured as console apps and data visualizations, all combined into one console app. Run the program and simply type the number of the day you would like to examine. The individual files are available on the original 100 Days of Code fork. 
+Refactorization in progress!!!
